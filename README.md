@@ -18,3 +18,4 @@ On the back end web servers, run the following commands:
 1) sudo apt-get install -y nginx
 2) uname -n | sudo tee /usr/share/nginx/html/index.html
 
+File named "default" can be found this way /etc/nginx/sites-available/default
