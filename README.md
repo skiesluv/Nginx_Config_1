@@ -15,6 +15,6 @@ Tasks:
 7. Do load balancing with Nginx web server (upstream).
 
 On the back end web servers, run the following commands to install NGINX:
-sudo apt-get install -y nginx
-uname -n | sudo tee /usr/share/nginx/html/index.html
+1) sudo apt-get install -y nginx
+2) uname -n | sudo tee /usr/share/nginx/html/index.html
 
